@@ -10,6 +10,7 @@ This repository includes the following items
 4. Hyperparameter tuning & Cross Validation to get the best results ([File link](https://github.com/IrishMehta/Telco_Churn_Prediction_Case_Study/blob/main/Feature%20Engineering%20%26%20Model%20Training.ipynb))
 5. Local deployment using Streamlit ([File link](helper.py))
 6. Complete Documentaion of Design Choices and Business use cases ([File link](Project_Report.pdf))
+7. Link to deployed model: [https://poc-telco-churn.herokuapp.com/](https://poc-telco-churn.herokuapp.com/)
 
 
 
